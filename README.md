@@ -1,0 +1,2 @@
+# realsense_xyz_from_floor
+天井から撮影したrealsenseのdepthデータを、床面をxy平面とするxyzデータへ変換
